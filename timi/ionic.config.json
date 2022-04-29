@@ -1,0 +1,7 @@
+{
+  "name": "Timi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
